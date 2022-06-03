@@ -15,5 +15,8 @@
         "ecmaFeatures": { "jsx": true }
     },
     "rules": {
+        "no-var": "error",
+        "no-console": "warn",
+        "no-alert": "warn"
     }
 }

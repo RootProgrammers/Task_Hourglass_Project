@@ -1,5 +1,5 @@
 function App() {
-	console.log('hi')
+	alert('error')
 	return <div className="App">Hello Task Hourglass</div>
 }
 
