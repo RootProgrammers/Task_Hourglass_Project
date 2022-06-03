@@ -14,14 +14,6 @@
         "sourceType": "module",
         "ecmaFeatures": { "jsx": true }
     },
-    "overrides": [
-        {
-            "files": ["**/*.stories.*"],
-            "rules": {
-                "import/no-anonymous-default-export" : "off"
-            }
-        }
-    ],
     "rules": {
         "no-var": "error",
         "no-console": "warn",
