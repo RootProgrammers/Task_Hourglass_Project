@@ -1,5 +1,6 @@
 function App() {
-  return <div className="App">Hello Task Hourglass</div>
+	console.log('hi')
+	return <div className="App">Hello Task Hourglass</div>
 }
 
 export default App
